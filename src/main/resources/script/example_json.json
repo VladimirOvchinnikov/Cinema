@@ -1,0 +1,34 @@
+// /halls
+[
+  {
+    "name": "Зал 7",
+    "rows": [
+      {
+        "row_number": 1,
+        "places": [
+          {
+            "price_coefficient": 1.0,
+            "id": 5,
+            "place_number": 1,
+            "is_vip": false
+          },
+          {
+            "price_coefficient": 2.0,
+            "place_number": 2,
+            "is_vip": true
+          }
+        ]
+      }
+    ]
+  },
+// /films
+  {
+    "id": 1,
+    "name": "zxczxczxc",
+    "poster": "qweqweqweqew",
+    "duration": "01:30",
+    "price": 12,
+    "start_of_hire": "04.06.2018",
+    "end_of_hire": "10.07.2018"
+  }
+]
